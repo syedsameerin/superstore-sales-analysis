@@ -1,25 +1,28 @@
 # Superstore Sales Analysis
 
-## Overview
-This project analyzes a retail sales dataset containing 9,800 records.
+## Project Overview
+This project analyzes Superstore sales data to identify sales trends, profitable categories, and business opportunities.
 
 ## Dataset
-- Rows: 9,800
-- Columns: 18
+The dataset contains information about orders, sales, profit, categories, customers, and regions.
 
-## Analysis Performed
-- Total sales analysis
-- Sales by category
-- Sales by region
-- Sales trend over time
-- Top products and customers
-
-## Tools
+## Tools Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
+- Seaborn
 
-## How to Run
-1. Open `analysis.ipynb`
-2. Run all cells
-3. Review charts and insights
+## Objectives
+- Analyze sales performance
+- Identify top-performing categories
+- Find the most profitable regions
+- Generate business insights
+
+## Future Improvements
+- Build interactive dashboards in Power BI
+- Create sales forecasting models
+- Perform customer segmentation analysis
+
+## Author
+Syed Sameer
